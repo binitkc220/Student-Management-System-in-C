@@ -1,5 +1,5 @@
 # Student-Management-System-in-C
-**Authors:**
+**Developers:**
 - Binit K.C
 - Aditya Timalsina
 - Aviyanshu Adhikari

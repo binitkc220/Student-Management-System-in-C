@@ -10,8 +10,7 @@
  * About: Copyright
  * (C) 2010 Tapio Vierros
  *
- * About: Licensing
- * See <License>
+ * Source: https://github.com/tapio/rlutil.git
  */
 
 

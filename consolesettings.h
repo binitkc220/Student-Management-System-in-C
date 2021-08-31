@@ -1,3 +1,14 @@
+/**
+  * File Name: consolesettings.h
+  * File Type: Header File
+  * Created By: Binit K.C
+  * Date: 2078/05/09
+  
+  functions:
+  1) fullscreen() :- makes output console screen full screen size
+  2) font(int font_size, int font_weight) :- used for changing font size and font weight in console output
+*/
+
 #include<windows.h>
 void fullscreen()
 {
